@@ -11,8 +11,6 @@ Also, I am cooperating with other two great team member Jerry & Seun
 
 Train the model to forecast twelve-hours of traffic flow in a major U.S. metropolitan area with previous 6 months TimeSeries data.
 
-Current Progress: 
-Finish the KNN with dimension reduction for 5.5 MAE
-Figuring out the way to tune the model & the data set for training
+- Current Progress: 
 
-Not able to post the notebook at this moment. Try to communicate with others and upload it once they agreed
+NoteBook posted & RANK #719 with MAE 5.461
